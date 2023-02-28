@@ -1,0 +1,9 @@
+Avoid(don't use):
+taxt-align: justify;
+
+
+
+
+use:
+ text-rendering: optimizeLegibility; 
+    word-break: break-all;
